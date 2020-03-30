@@ -1,0 +1,2 @@
+[Rethinking Softmax Cross-Entropy Loss for Adversarial Robustness](https://openreview.net/pdf?id=Byg9A24tvB)
+[Why is the Mahalanobis Distance Effective for Anomaly Detection?](http://arxiv.org/pdf/2003.00402v1.pdf)
