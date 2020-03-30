@@ -1,0 +1,4 @@
+https://analyticsindiamag.com/understanding-mahalanobis-distance-and-its-use-cases/
+
+Use Cases Of Mahalanobis Distance
+Image processing: The aspect of MD in image processing has spurred researchers to bring in this concept to serve various areas of the field. One such study is the anomaly detection in hyperspectral images, which are used to detect surface materials in the ground. A group of researchers from IEEE have developed a method called low-rank and sparse matrix decomposition-based Mahalanobis distance method for anomaly detection. This uses MD to detect the probable anomalies lying in the images analysed from sparse matrix decomposition.
