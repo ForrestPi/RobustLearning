@@ -1,2 +1,2 @@
 # RobustLearning
-some recrods about RobustLearning
+some records about RobustLearning
